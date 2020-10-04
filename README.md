@@ -1,1 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AtsushiKitano)](https://github.com/AtsushiKitano/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AtsushiKitano&hide=contribs,prs)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AtsushiKitano&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AtsushiKitano&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AtsushiKitano&show_icons=true&theme=radical)
